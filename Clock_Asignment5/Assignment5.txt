@@ -1,0 +1,5 @@
+Initialize normal RUN mode: 
+- Select SPLL as System clock source
+- Core clock = 40 MHz
+- Bus clock = 20 MHz
+- Flash clock = 10 MHz

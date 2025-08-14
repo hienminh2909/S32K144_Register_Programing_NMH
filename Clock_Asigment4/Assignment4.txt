@@ -1,0 +1,5 @@
+Initialize normal RUN mode: 
+- Select SOSC as System clock source
+- Core clock = 8 MHz
+- Bus clock = 4 MHz
+- Flash clock = 2 MHz

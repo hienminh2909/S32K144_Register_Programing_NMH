@@ -1,0 +1,4 @@
+Initialize SPLL using FIRC: 
+- Initialize SPLL to 160 MHz
+- SPLL_DIV1_CLK: 80MHz 
+- SPLL_DIV2_CLK: 10MHz

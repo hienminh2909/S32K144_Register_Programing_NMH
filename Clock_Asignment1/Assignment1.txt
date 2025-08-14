@@ -1,0 +1,4 @@
+Initialize system oscillator (SOSC):
+- Initialize system oscilator for 8 MHz xtal
+- SOSC_DIV1_CLK: 4MHz 
+- SOSC_DIV2_CLK: 1MHz

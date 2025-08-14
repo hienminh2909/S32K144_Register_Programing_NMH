@@ -1,0 +1,9 @@
+Transition to High Speed RUN mode:
+- Select FIRC as System clock source
+- Select SPLL as System clock source
+- Core clock = 112 MHz
+- Bus clock = 56 MHz
+- Flash clock = 28 MHz
+
+Initialize CLKOUT pin:
+- CLKOUT pin = 2MHz
