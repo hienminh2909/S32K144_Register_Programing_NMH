@@ -1,14 +1,19 @@
-🚀 S32K144 Low-Level Driver Development (Bare-Metal): Completed an embedded systems internship at FPT Software HCM
+🚀 S32K144 Low-Level Driver Development (Bare-Metal):
 ***Overview:
   -This repository contains low-level driver implementations and basic embedded applications developed on S32K144.
   -The project focuses on register-level programming (bare-metal) to understand MCU peripherals and build reusable drivers without relying on SDK or HAL libraries.
   => Goal: Build strong foundation in embedded systems by implementing drivers from scratch.
 
 ***Project Structure
+
 /GPIO_Driver        → GPIO driver implementation
+
 /Blink_LED          → LED blinking using GPIO
+
 /Button_Interrupt   → External interrupt handling (button)
+
 /Clock_Assignment2  → Clock configuration experiments
+
 /Clock_Assignment5  → Advanced clock setup
 
 ***Key Features
